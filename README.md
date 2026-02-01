@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements a **SQL-based Employee Management System** designed to store, manage, and analyze employee data efficiently. It focuses on relational database design and advanced SQL queries to generate meaningful business insights for HR and management decision-making.
 
----
+
 
 ## Objective
 - Design a normalized relational database using ER modeling
@@ -11,7 +11,7 @@ This project implements a **SQL-based Employee Management System** designed to s
 - Ensure data integrity using primary keys, foreign keys, and constraints
 - Perform analytical SQL queries for HR and payroll insights
 
----
+
 
 ## Database Design
 - Normalized relational schema
@@ -26,7 +26,7 @@ This project implements a **SQL-based Employee Management System** designed to s
   - Payroll
   - Promotions
 
----
+
 
 ## Key Analysis & Use Cases
 
@@ -60,7 +60,7 @@ This project implements a **SQL-based Employee Management System** designed to s
 ### Employee Performance & Growth
 - Year with highest number of promotions: **2019**
 
----
+
 
 ## Key Business Insights
 - The system manages **60 employees** across multiple departments
@@ -73,7 +73,6 @@ This project implements a **SQL-based Employee Management System** designed to s
 - Finance department receives the highest bonuses
 - Average payroll after leave deductions: **847,411**
 
----
 
 ## Tools & Technologies
 - SQL (MySQL / PostgreSQL)
@@ -81,7 +80,6 @@ This project implements a **SQL-based Employee Management System** designed to s
 - ER Diagrams
 - Analytical SQL Queries
 
----
 
 ## Skills Demonstrated
 - SQL Joins & Subqueries
@@ -90,13 +88,11 @@ This project implements a **SQL-based Employee Management System** designed to s
 - Business Data Analysis
 - Problem Solving with SQL
 
----
 
 ## Conclusion
 This project demonstrates strong proficiency in SQL, database design, and data analysis by transforming raw employee data into actionable business insights that support HR and management decisions.
 
----
 
 ## Author
 **Saideepu Balaraju**  
-B.Tech – Computer Science & Engineering (2025)  
+
